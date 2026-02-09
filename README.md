@@ -57,4 +57,4 @@ Chris manages a diverse portfolio of growth and content strategies from his curr
 
 ---
 
-**Would you like me to draft a custom "About Me" section for a personal website or a professional recruitment DM based on these details?**
+
