@@ -1,6 +1,6 @@
 [![Barry Banner](https://i.ibb.co/Kc8SZvsv/image.png)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)
 
-# Barry ss
+# Barry
 
 You’re probably wondering what the fuck this is.
 
@@ -121,6 +121,24 @@ Do smooth, globally defined solutions always exist in 3D for smooth initial data
 
 ### 6. Birch and Swinnerton-Dyer Conjecture  
 The rank of an elliptic curve is determined by the behavior of its L-function at s = 1.
+
+---
+
+## Support the Experiment
+
+If you'd like to support the server costs, compute time, and the ongoing attempt to break mathematics:
+
+**Solana (SOL)**  
+```
+3GxWUWroy5ejXh6bgXKD6PpL1GSQq87YHGgwELDUQZcc
+```
+
+**EVM (Ethereum / Base / etc.)**  
+```
+0x4A50cFF57c17c5391E8c1C2F1f7e875Af2Ce274f
+```
+
+All support goes toward keeping Barry online and thinking.
 
 ---
 
